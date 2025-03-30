@@ -21,7 +21,7 @@ conversion_factors = {
         }
     }
 
-st.title("Google Unit Converter With Pyton and Streamlit")
+st.title("Google Unit Converter With Python and Streamlit")
 
 # Select Category
 category = st.selectbox("Select Conversion Category", ["Length", "Weight", "Temperature"])
